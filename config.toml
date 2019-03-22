@@ -1,0 +1,103 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+rssLimit = 10 # Maximum number of items in the RSS feed.
+enableEmoji = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Francesco Farina"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/indiependente"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/indiependente"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/indiependente"
+  [[params.social]]
+    name = "email"
+    url = "mailto:mail.farinafrancesco@gmail.com"
+
+[languages]
+  [languages.en]
+    title = "Francesco Farina"
+    subtitle = "Pressing buttons to explore rabbit holes"
+    keywords = "computer, science, informatics, programming, development"
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "gopher.png"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+     
+
+  [languages.it]
+    title = "Francesco Farina"
+    subtitle = "Pressing buttons to explore rabbit holes"
+    keywords = "computer, science, informatica, programmazione, sviluppo"
+    copyright = ""
+    readOtherPosts = "Leggi altri post"
+
+    [languages.it.params.logo]
+      logoText = "/home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "gopher.png"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.it.menu]
+      [[languages.it.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.it.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
