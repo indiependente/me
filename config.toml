@@ -1,8 +1,41 @@
-baseurl = "/"
+baseurl = "https://indiependente.dev"
+title = "Francesco Farina"
+
+DefaultContentLanguage = "en"
 languageCode = "en-us"
+
 theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "dracula"
+
 rssLimit = 10 # Maximum number of items in the RSS feed.
-enableEmoji = true
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -18,7 +51,12 @@ enableEmoji = true
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  
+  justifyContent = false
+
+  [params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/indiependente"
@@ -30,66 +68,31 @@ enableEmoji = true
   [[params.social]]
     name = "instagram"
     url = "https://instagram.com/indiependente"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
+
   [[params.social]]
     name = "email"
     url = "mailto:mail.farinafrancesco@gmail.com"
 
+
 [languages]
   [languages.en]
     title = "Francesco Farina"
-    subtitle = "Pressing buttons to explore rabbit holes"
+    homeSubtitle = "Pressing buttons to explore rabbit holes"
     keywords = "computer, science, informatics, programming, development"
     copyright = ""
     readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
-      logoText = "$ cd /home/"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "gopher.png"
-    # alt = "Your example logo alt text"
-
-	# You can create a language based menu
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
-     
-
   [languages.it]
     title = "Francesco Farina"
-    subtitle = "Pressing buttons to explore rabbit holes"
+    homeSubtitle = "Pressing buttons to explore rabbit holes"
     keywords = "computer, science, informatica, programmazione, sviluppo"
     copyright = ""
     readOtherPosts = "Leggi altri post"
 
-    [languages.it.params.logo]
-      logoText = "/home/"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "gopher.png"
-    # alt = "Your example logo alt text"
-
-	# You can create a language based menu
-    [languages.it.menu]
-      [[languages.it.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.it.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
-
-# And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "about"
