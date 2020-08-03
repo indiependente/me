@@ -9,7 +9,7 @@ tags:
   - italy
   - tour
 ---
-![Naples](/https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465600/indiependente.dev/a-tour-of-naples/naples_rhxifl.png)
+![Naples](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465600/indiependente.dev/a-tour-of-naples/naples_rhxifl.png)
 Map of Naples
 
 ## Points of interests
