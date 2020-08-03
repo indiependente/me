@@ -9,7 +9,7 @@ tags:
   - italy
   - tour
 ---
-![Naples](/atourofnaples/naples.png)
+![Naples](/https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465600/indiependente.dev/a-tour-of-naples/naples_rhxifl.png)
 Map of Naples
 
 ## Points of interests
@@ -25,7 +25,7 @@ Map of Naples
     - (a.k.a. Maschio Angioino, open to the public)
 
 
-![Plebiscito](/atourofnaples/plebiscito.png)
+![Plebiscito](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465688/indiependente.dev/a-tour-of-naples/plebiscito_smvqwe.png)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 - [Via Toledo](https://goo.gl/maps/LWWz4LZggRu) (high street, shopping)
     - [Galleria Umberto I](https://goo.gl/maps/NBzTGP9JmoS2)
 
-![Via Toledo](/atourofnaples/toledo.png)
+![Via Toledo](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465379/indiependente.dev/a-tour-of-naples/toledo_ptyz6g.png)
 
 ___
 
@@ -44,7 +44,7 @@ ___
     - https://www.monasterodisantachiara.it/english/
 - [Piazza del Gesù Nuovo](https://goo.gl/maps/QsW2JCCuia92)
 
-![S. Claire complex](/atourofnaples/santachiara.png)
+![S. Claire complex](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465376/indiependente.dev/a-tour-of-naples/santachiara_ve8jy8.png)
 
 ___
 
@@ -57,7 +57,7 @@ ___
     - heart of the city, inside the ancient walls
 - [Santa Maria Assunta Cathedral (Dome)](https://goo.gl/maps/CnukDLeJrG92)
 
-![Spaccanapoli](/atourofnaples/spaccanapoli.png)
+![Spaccanapoli](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465377/indiependente.dev/a-tour-of-naples/spaccanapoli_obfpzz.png)
 
 ___
 
@@ -67,20 +67,20 @@ Naples is the paradise of delicious and cheap street food.
 
 I strongly recommend you to try the *frittatina di pasta* by Di Matteo in Via dei Tribunali:
 
-![Frittatina](/atourofnaples/frittatina.jpg)
+![Frittatina](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465374/indiependente.dev/a-tour-of-naples/frittatina_egebov.jpg)
 
 - [Di Matteo](https://goo.gl/maps/aKRAzoUYJH32)
 
 Pizza is a **must** in Naples and Sorbillo is probably the most famous pizzeria:
 
-![Sorbillo](/atourofnaples/sorbillo.jpg)
+![Sorbillo](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465378/indiependente.dev/a-tour-of-naples/sorbillo_pjyraz.jpg)
 
 - [Sorbillo, Lungomare Caracciolo](https://goo.gl/maps/iqCaQPGB1yA2)
 - [Sorbillo, Via dei Tribunali](https://goo.gl/maps/ghvta5nLjBr)
 
 To finish with a dessert, *sfogliatella* is the typical neapolitan dessert. Sfogliatelle Attanasio is a pastry shop near the central train station.
 
-![Sfogliatella](/atourofnaples/sfogliatella.jpg)
+![Sfogliatella](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465375/indiependente.dev/a-tour-of-naples/sfogliatella_ciddug.jpg)
 
 - [Sfogliatelle Attanasio](https://goo.gl/maps/3VB9y7ax23n)
 
