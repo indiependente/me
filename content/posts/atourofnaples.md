@@ -17,13 +17,12 @@ Map of Naples
 ### Piazza del Plebiscito, Lungomare and Castles
 
 - [Piazza Plebiscito](https://goo.gl/maps/ASAJXobzHZ12)
-    - [Gran Caffè Gambrinus](https://goo.gl/maps/MTXFVumzqiq)
+  - [Gran Caffè Gambrinus](https://goo.gl/maps/MTXFVumzqiq)
 - [Lungomare Caracciolo](https://goo.gl/maps/rRTykcdMNwq)
 - [Castel dell'Ovo](https://goo.gl/maps/Rp9n9TvFGrw)
-    - Open to the public
+  - Open to the public
 - [Castel Nuovo](https://goo.gl/maps/nzsS5DZxKnP2)
-    - (a.k.a. Maschio Angioino, open to the public)
-
+  - (a.k.a. Maschio Angioino, open to the public)
 
 ![Plebiscito](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465688/indiependente.dev/a-tour-of-naples/plebiscito_smvqwe.png)
 
@@ -32,7 +31,7 @@ ___
 ### High Street
 
 - [Via Toledo](https://goo.gl/maps/LWWz4LZggRu) (high street, shopping)
-    - [Galleria Umberto I](https://goo.gl/maps/NBzTGP9JmoS2)
+  - [Galleria Umberto I](https://goo.gl/maps/NBzTGP9JmoS2)
 
 ![Via Toledo](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465379/indiependente.dev/a-tour-of-naples/toledo_ptyz6g.png)
 
@@ -41,7 +40,7 @@ ___
 ### Monumental complex of S. Claire (1310)
 
 - [Monastero di Santa Chiara](https://goo.gl/maps/DytBHhb9heG2)
-    - https://www.monasterodisantachiara.it/english/
+  - <https://www.monasterodisantachiara.it/english/>
 - [Piazza del Gesù Nuovo](https://goo.gl/maps/QsW2JCCuia92)
 
 ![S. Claire complex](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465376/indiependente.dev/a-tour-of-naples/santachiara_ve8jy8.png)
@@ -51,10 +50,10 @@ ___
 ### Spaccanapoli and Cathedrals
 
 - [Spaccanapoli](https://goo.gl/maps/LWWz4LZggRu) (a.k.a. San Biagio dei librai)
-- [Via dei Tribunali](https://goo.gl/maps/9n81h1WKk5M2)     
-    - parallel to Spaccanapoli
-    - the most carachteristic street
-    - heart of the city, inside the ancient walls
+- [Via dei Tribunali](https://goo.gl/maps/9n81h1WKk5M2)
+  - parallel to Spaccanapoli
+  - the most carachteristic street
+  - heart of the city, inside the ancient walls
 - [Santa Maria Assunta Cathedral (Dome)](https://goo.gl/maps/CnukDLeJrG92)
 
 ![Spaccanapoli](https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465377/indiependente.dev/a-tour-of-naples/spaccanapoli_obfpzz.png)
@@ -97,4 +96,4 @@ ___
 Naples is gorgeous to visit by walking, but in case you'd like to use public transports I suggest to take the metro because it's fast, less crowded and artistic.
 
 - [Toledo station](https://goo.gl/maps/z6bopimaMR22)
-    - [LEAF Awards 2013](https://www.detail-online.com/article/leaf-awards-2013-winner-metro-station-toledo-in-naples-16599/)
+  - [LEAF Awards 2013](https://www.detail-online.com/article/leaf-awards-2013-winner-metro-station-toledo-in-naples-16599/)

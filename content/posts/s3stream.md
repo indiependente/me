@@ -11,16 +11,21 @@ tags:
   - streaming
 ---
 ## Setup
+
 ```go
   import "github.com/indiependente/s3stream"
   // where conf is &aws.Config
   store := s3stream.NewStoreWithClient(s3.New(session.Must(session.NewSession(conf))))
 ```
+
 ## Get
+
 ```go
 rc, err := store.Get(prefix, bucketname, filename)
 ```
+
 ## Put
+
 ```go
 n, err := store.Put(prefix, bucketname, filename, contentType, r)
 ```
