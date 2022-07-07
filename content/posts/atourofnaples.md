@@ -52,7 +52,7 @@ ___
 - [Spaccanapoli](https://goo.gl/maps/LWWz4LZggRu) (a.k.a. San Biagio dei librai)
 - [Via dei Tribunali](https://goo.gl/maps/9n81h1WKk5M2)
   - parallel to Spaccanapoli
-  - the most carachteristic street
+  - the most characteristic street
   - heart of the city, inside the ancient walls
 - [Santa Maria Assunta Cathedral (Dome)](https://goo.gl/maps/CnukDLeJrG92)
 
@@ -97,3 +97,7 @@ Naples is gorgeous to visit by walking, but in case you'd like to use public tra
 
 - [Toledo station](https://goo.gl/maps/z6bopimaMR22)
   - [LEAF Awards 2013](https://www.detail-online.com/article/leaf-awards-2013-winner-metro-station-toledo-in-naples-16599/)
+
+## Map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1IIUR6BXg6iBvQCXCVUxuJD0JIsVmfEE&ehbc=2E312F" width="640" height="480"></iframe>
