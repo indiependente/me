@@ -133,9 +133,9 @@ As many articles state, there have been positive experiences in the Kubernetes c
 
 But, even though it may seem like an easy trick that achieves lower latencies and better CPU usage, it’s not always the case nor it’s that easy, for example:
 
-- in [https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/), the author explains they had to isolate *unbounded* services to dedicated nodes, to mitigate them from using too many resources in a node shared with *bounded* services;
-- in [https://www.youtube.com/watch?v=QXApVwRBeys](https://www.youtube.com/watch?v=QXApVwRBeys), the speakers show how in the early days of AirBnB they decided to not set CPU Limits because they thought it would hurt performance, but that turned out to be worse than expected, creating a *noisy neighbours* effect, where a small number of services ends up dominating the CPU time;
-- in [https://home.robusta.dev/blog/stop-using-cpu-limits/](https://home.robusta.dev/blog/stop-using-cpu-limits/), the author suggests setting a requests quota and removing any CPU limit, and even if this can work for a majority of scenarios, it’s not a golden rule because as described above can lead to one or more services starve the rest.
+- in [Kubernetes: Make your services faster by removing CPU limits](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/), the author explains they had to isolate *unbounded* services to dedicated nodes, to mitigate them from using too many resources in a node shared with *bounded* services;
+- in [Did Kubernetes Make My p95s Worse? - Jian Cheung & Stephen Chan, Airbnb](https://www.youtube.com/watch?v=QXApVwRBeys), the speakers show how in the early days of AirBnB they decided to not set CPU Limits because they thought it would hurt performance, but that turned out to be worse than expected, creating a *noisy neighbours* effect, where a small number of services ends up dominating the CPU time;
+- in [For the love of God, stop using CPU limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits/), the author suggests setting a requests quota and removing any CPU limit, and even if this can work for a majority of scenarios, it’s not a golden rule because as described above can lead to one or more services starve the rest.
 
 ## Namespace resource allocation
 
