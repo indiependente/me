@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Requests & Limits"
 date: 2022-09-15T15:39:00Z
-toc: false
+toc: true
 images:
 tags:
   - kubernetes
