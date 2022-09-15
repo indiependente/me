@@ -157,7 +157,7 @@ A Limit Range, instead, enforces itself on individual containers. This can help 
 
 ## Appendix
 
-## 1. How pod specs are propagated
+### 1. How pod specs are propagated
 
 ![Pod spec propagation from k8s control plane to cgroups](https://res.cloudinary.com/indiependente/image/upload/v1663248072/indiependente.dev/k8srequestslimits/podspecprop.png)
 
@@ -168,7 +168,7 @@ A Limit Range, instead, enforces itself on individual containers. This can help 
 5. **CRI Runtime** executes **OCI Runtime** binary to create a container with OCI Spec JSON
 6. **OCI Runtime** creates/updates/deletes **cgroups** accordingly
 
-## 2. QoS Classes
+### 2. QoS Classes
 
 When Kubernetes creates a Pod, it assigns one of the following QoS classes depending on the condition
 
