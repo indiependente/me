@@ -2,6 +2,7 @@
 title: " ƛ📦 AWS Lambdas containers and Go"
 date: 2021-03-13T15:05:00Z
 toc: true
+draft: false
 images:
 tags:
   - aws
