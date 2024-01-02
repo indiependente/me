@@ -1,14 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Francesco Farina</title>
-    <link>/tags/</link>
+    <link>https://indiependente.dev/tags/</link>
     <description>Recent content in Tags on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
+    <atom:link href="https://indiependente.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cfs</title>
+      <link>https://indiependente.dev/tags/cfs/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/cfs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cgroups</title>
+      <link>https://indiependente.dev/tags/cgroups/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/cgroups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>containers</title>
+      <link>https://indiependente.dev/tags/containers/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cpu</title>
+      <link>https://indiependente.dev/tags/cpu/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/cpu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kubernetes</title>
+      <link>https://indiependente.dev/tags/kubernetes/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>limits</title>
+      <link>https://indiependente.dev/tags/limits/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/limits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>memory</title>
+      <link>https://indiependente.dev/tags/memory/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/memory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>performance</title>
+      <link>https://indiependente.dev/tags/performance/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pods</title>
+      <link>https://indiependente.dev/tags/pods/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/pods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>requests</title>
+      <link>https://indiependente.dev/tags/requests/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/tags/requests/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 baseurl = "https://indiependente.dev"
-title = "Francesco Farina"
+title = "indiependente"
 
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 
-theme = "hello-friend-ng"
+theme = "PaperMod"
 
 PygmentsCodeFences = true
 PygmentsStyle = "dracula"
@@ -32,12 +32,23 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+[minify]
+  disableXML = true
+  minifyOutput = true
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
 
 
 [params]
+  avatar = "https://res.cloudinary.com/indiependente/image/upload/f_auto,q_auto/v1/indiependente.dev/uwdxrdxwmgc3shz2jwe8"
+  name = "Francesco Farina"
+  bio = "Pressing buttons to explore rabbit holes"
+  rss = true # show rss icon
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  math = true
+
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -45,51 +56,88 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   description = "Homepage and blog by Francesco Farina"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  keywords = ["homepage", "blog", "computer science", "development", "programming"]
   
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "auto"
   justifyContent = false
 
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+# profile-mode
+  [params.profileMode]
+    enabled = true # needs to be explicitly set
+    title = "Francesco Farina"
+    subtitle = "Pressing buttons to explore rabbit holes"
+    imageUrl = "https://res.cloudinary.com/indiependente/image/upload/f_auto,q_auto/v1/indiependente.dev/uwdxrdxwmgc3shz2jwe8"
+    imageWidth = 120
+    imageHeight = 120
+    # imageTitle = my image
+    [[params.profileMode.buttons]]
+      name= "Posts"
+      url= "posts"
+    [[params.profileMode.buttons]]
+      name = "Tags"
+      url = "tags"
   [params.logo]
       logoText = "$ cd /home/"
       logoHomeLink = "/"
 
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/indiependente"
+    [[params.social.twitter]]
+      title = "twitter"
+      prefix = "https://twitter.com/indiependente"
+      id = "@indiependente"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/indiependente"
+    [[params.social.github]]
+      title = "github"
+      prefix = "https://github.com/indiependente"
+      id = "@indiependente"
 
-  [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/indiependente"
+    [[params.social.instagram]]
+      title = "instagram"
+      prefix = "https://instagram.com/indiependente"
+      id = "@indiependente"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
+    [[params.social.linkedin]]
+      title = "linkedin"
+      prefix  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
+      id = "@indiependente"
 
-  [[params.social]]
-    name = "email"
-    url = "mailto:mail.farinafrancesco@gmail.com"
+    [[params.social.email]]
+      title = "email"
+      prefix = "mailto:mail.farinafrancesco@gmail.com"
+      id = "@indiependente"
 
 
 [languages]
   [languages.en]
     title = "Francesco Farina"
     homeSubtitle = "Pressing buttons to explore rabbit holes"
-    keywords = "computer, science, informatics, programming, development"
+    # keywords = "computer, science, informatics, programming, development"
     copyright = ""
     readOtherPosts = "Read other posts"
 
   [languages.it]
     title = "Francesco Farina"
     homeSubtitle = "Pressing buttons to explore rabbit holes"
-    keywords = "computer, science, informatica, programmazione, sviluppo"
+    # keywords = "computer, science, informatica, programmazione, sviluppo"
     copyright = ""
     readOtherPosts = "Leggi altri post"
 
@@ -100,8 +148,8 @@ disableHugoGeneratorInject = false
     url        = "/about"
 
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
+    identifier = "posts"
+    name       = "Posts"
     url        = "/posts"
 
 [markup.goldmark.renderer]

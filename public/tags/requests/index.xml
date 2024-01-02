@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>requests on Francesco Farina</title>
+    <link>https://indiependente.dev/tags/requests/</link>
+    <description>Recent content in requests on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
+    <atom:link href="https://indiependente.dev/tags/requests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes Requests &amp; Limits</title>
+      <link>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</guid>
+      <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
+Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
+Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
+    </item>
+  </channel>
+</rss>
