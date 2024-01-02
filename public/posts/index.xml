@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Francesco Farina</title>
+    <link>https://indiependente.dev/posts/</link>
+    <description>Recent content in Posts on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
+    <atom:link href="https://indiependente.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes Requests &amp; Limits</title>
+      <link>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</link>
+      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</guid>
+      <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
+Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
+Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
+    </item>
+    <item>
+      <title> ƛ📦 AWS Lambdas containers and Go</title>
+      <link>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</link>
+      <pubDate>Sat, 13 Mar 2021 15:05:00 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</guid>
+      <description>TL;DR AWS official base images for lambdas ship entire distros, use scratch or distroless base images for statically compiled languages like Go and use the aws-lambda-runtime-interface-emulator as the entrypoint.
+Intro In December 2020, AWS announced support for packaging and running lambdas in containers.
+In this blog post I&amp;rsquo;ll try to dig a little bit deeper on how it works and how we can improve what&amp;rsquo;s described in the official article, so that we can run an example Go application as a Dockerised lambda both on AWS and locally in the most space efficient way.</description>
+    </item>
+    <item>
+      <title>A tour of Naples</title>
+      <link>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</link>
+      <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</guid>
+      <description>Map of Naples
+Points of interests Piazza del Plebiscito, Lungomare and Castles Piazza Plebiscito Gran Caffè Gambrinus Lungomare Caracciolo Castel dell&amp;rsquo;Ovo Open to the public Castel Nuovo (a.k.a. Maschio Angioino, open to the public) High Street Via Toledo (high street, shopping) Galleria Umberto I Monumental complex of S. Claire (1310) Monastero di Santa Chiara https://www.monasterodisantachiara.it/english/ Piazza del Gesù Nuovo Spaccanapoli and Cathedrals Spaccanapoli (a.k.a. San Biagio dei librai) Via dei Tribunali parallel to Spaccanapoli the most characteristic street heart of the city, inside the ancient walls Santa Maria Assunta Cathedral (Dome) Food Naples is the paradise of delicious and cheap street food.</description>
+    </item>
+  </channel>
+</rss>

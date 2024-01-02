@@ -1,50 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/it/categories/</loc>
-    <priority>0</priority>
+    <loc>https://indiependente.dev/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://indiependente.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/categories/"
+                href="https://indiependente.dev/it/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/it/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://indiependente.dev/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://indiependente.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/"
+                href="https://indiependente.dev/it/"
                 />
-  </url>
-  
-  <url>
-    <loc>/it/tags/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://indiependente.dev/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://indiependente.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/"
+                href="https://indiependente.dev/it/tags/"
                 />
   </url>
-  
 </urlset>

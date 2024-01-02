@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apigateway on Francesco Farina</title>
+    <link>https://indiependente.dev/tags/apigateway/</link>
+    <description>Recent content in apigateway on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Mar 2021 15:05:00 +0000</lastBuildDate>
+    <atom:link href="https://indiependente.dev/tags/apigateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> ƛ📦 AWS Lambdas containers and Go</title>
+      <link>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</link>
+      <pubDate>Sat, 13 Mar 2021 15:05:00 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</guid>
+      <description>TL;DR AWS official base images for lambdas ship entire distros, use scratch or distroless base images for statically compiled languages like Go and use the aws-lambda-runtime-interface-emulator as the entrypoint.
+Intro In December 2020, AWS announced support for packaging and running lambdas in containers.
+In this blog post I&amp;rsquo;ll try to dig a little bit deeper on how it works and how we can improve what&amp;rsquo;s described in the official article, so that we can run an example Go application as a Dockerised lambda both on AWS and locally in the most space efficient way.</description>
+    </item>
+  </channel>
+</rss>
