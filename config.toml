@@ -99,31 +99,25 @@ disableHugoGeneratorInject = false
       logoText = "$ cd /home/"
       logoHomeLink = "/"
 
-  [[params.social]]
-    [[params.social.twitter]]
-      title = "twitter"
-      prefix = "https://twitter.com/indiependente"
-      id = "@indiependente"
+  [[params.socialIcons]]
+      name = "x"
+      url = "https://twitter.com/indiependente"
 
-    [[params.social.github]]
-      title = "github"
-      prefix = "https://github.com/indiependente"
-      id = "@indiependente"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/indiependente"
 
-    [[params.social.instagram]]
-      title = "instagram"
-      prefix = "https://instagram.com/indiependente"
-      id = "@indiependente"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/indiependente"
 
-    [[params.social.linkedin]]
-      title = "linkedin"
-      prefix  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
-      id = "@indiependente"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
 
-    [[params.social.email]]
-      title = "email"
-      prefix = "mailto:mail.farinafrancesco@gmail.com"
-      id = "@indiependente"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:francesco@indiependente.anonaddy.com"
 
 
 [languages]
