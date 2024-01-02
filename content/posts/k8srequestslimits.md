@@ -30,15 +30,15 @@ Let’s take a look at an example limits and requests configuration.
 
 ```yaml
 containers:
- - name: container1
-  image: busybox
-  resources:
-   requests:
-                cpu: 200m
-    memory: 32Mi
-   limits:
-    cpu: 250m
-    memory: 64Mi
+  - name: container1
+    image: busybox
+    resources: null
+    requests:
+      cpu: 200m
+      memory: 32Mi
+    limits:
+      cpu: 250m
+      memory: 64Mi
 ```
 
 The Kubernetes scheduler uses the values of CPU and memory to figure out where to run the pods.
