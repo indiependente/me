@@ -10,5 +10,5 @@
 
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.121.1"
+  HUGO_VERSION = "0.121.2"
   GO_VERSION = "1.21.5"
