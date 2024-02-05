@@ -100,12 +100,16 @@ disableHugoGeneratorInject = false
       logoHomeLink = "/"
 
   [[params.socialIcons]]
-      name = "x"
-      url = "https://twitter.com/indiependente"
-
-  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/indiependente"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:francesco@indiependente.anonaddy.com"
+
+  [[params.socialIcons]]
+      name = "mastodon"
+      url = "@indiependente@mastodon.social"
 
   [[params.socialIcons]]
     name = "instagram"
@@ -116,8 +120,8 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
 
   [[params.socialIcons]]
-    name = "email"
-    url = "mailto:francesco@indiependente.anonaddy.com"
+      name = "x"
+      url = "https://twitter.com/indiependente"
 
 
 [languages]
