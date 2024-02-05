@@ -109,7 +109,7 @@ disableHugoGeneratorInject = false
 
   [[params.socialIcons]]
       name = "mastodon"
-      url = "@indiependente@mastodon.social"
+      url = "https://mastodon.social/@indiependente"
 
   [[params.socialIcons]]
     name = "instagram"
