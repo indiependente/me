@@ -39,8 +39,6 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-
-
 [params]
   avatar = "https://res.cloudinary.com/indiependente/image/upload/f_auto,q_auto/v1/indiependente.dev/uwdxrdxwmgc3shz2jwe8"
   name = "Francesco Farina"
@@ -127,17 +125,17 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     title = "Francesco Farina"
-    homeSubtitle = "Pressing buttons to explore rabbit holes"
+    # homeSubtitle = "Pressing buttons to explore rabbit holes"
     # keywords = "computer, science, informatics, programming, development"
     copyright = ""
-    readOtherPosts = "Read other posts"
+    # readOtherPosts = "Read other posts"
 
   [languages.it]
     title = "Francesco Farina"
-    homeSubtitle = "Pressing buttons to explore rabbit holes"
+    # homeSubtitle = "Pressing buttons to explore rabbit holes"
     # keywords = "computer, science, informatica, programmazione, sviluppo"
     copyright = ""
-    readOtherPosts = "Leggi altri post"
+    # readOtherPosts = "Leggi altri post"
 
 [menu]
   [[menu.main]]

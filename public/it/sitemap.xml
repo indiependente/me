@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://indiependente.dev/it/categories/</loc>
+    <loc>http://localhost:1313/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://indiependente.dev/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://indiependente.dev/it/categories/"
+                href="http://localhost:1313/it/categories/"
                 />
   </url><url>
-    <loc>https://indiependente.dev/it/</loc>
+    <loc>http://localhost:1313/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://indiependente.dev/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://indiependente.dev/it/"
+                href="http://localhost:1313/it/"
                 />
   </url><url>
-    <loc>https://indiependente.dev/it/tags/</loc>
+    <loc>http://localhost:1313/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://indiependente.dev/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://indiependente.dev/it/tags/"
+                href="http://localhost:1313/it/tags/"
                 />
   </url>
 </urlset>

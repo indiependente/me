@@ -2,43 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesco Farina</title>
-    <link>https://indiependente.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
-    <atom:link href="https://indiependente.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 15:39:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🇬🇷 Santorini: my tips after one week</title>
+      <link>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</link>
+      <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</guid>
+      <description>This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.
+🚗 Rent a car Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes. We booked our car with Santorini Easy Rent. They have a wide range of cars and the prices are very competitive.</description>
+    </item>
     <item>
       <title>Kubernetes Requests &amp; Limits</title>
-      <link>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</link>
+      <link>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</link>
       <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</guid>
+      <guid>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</guid>
       <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
 Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
 Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
     </item>
     <item>
       <title> ƛ📦 AWS Lambdas containers and Go</title>
-      <link>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</link>
+      <link>http://localhost:1313/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</link>
       <pubDate>Sat, 13 Mar 2021 15:05:00 +0000</pubDate>
-      <guid>https://indiependente.dev/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</guid>
+      <guid>http://localhost:1313/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</guid>
       <description>TL;DR AWS official base images for lambdas ship entire distros, use scratch or distroless base images for statically compiled languages like Go and use the aws-lambda-runtime-interface-emulator as the entrypoint.
 Intro In December 2020, AWS announced support for packaging and running lambdas in containers.
 In this blog post I&amp;rsquo;ll try to dig a little bit deeper on how it works and how we can improve what&amp;rsquo;s described in the official article, so that we can run an example Go application as a Dockerised lambda both on AWS and locally in the most space efficient way.</description>
     </item>
     <item>
       <title>A tour of Naples</title>
-      <link>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</link>
+      <link>http://localhost:1313/posts/2019/03/a-tour-of-naples/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
-      <guid>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</guid>
+      <guid>http://localhost:1313/posts/2019/03/a-tour-of-naples/</guid>
       <description>Map of Naples
 Points of interests Piazza del Plebiscito, Lungomare and Castles Piazza Plebiscito Gran Caffè Gambrinus Lungomare Caracciolo Castel dell&amp;rsquo;Ovo Open to the public Castel Nuovo (a.k.a. Maschio Angioino, open to the public) High Street Via Toledo (high street, shopping) Galleria Umberto I Monumental complex of S. Claire (1310) Monastero di Santa Chiara https://www.monasterodisantachiara.it/english/ Piazza del Gesù Nuovo Spaccanapoli and Cathedrals Spaccanapoli (a.k.a. San Biagio dei librai) Via dei Tribunali parallel to Spaccanapoli the most characteristic street heart of the city, inside the ancient walls Santa Maria Assunta Cathedral (Dome) Food Naples is the paradise of delicious and cheap street food.</description>
     </item>
     <item>
+      <title>s3stream</title>
+      <link>http://localhost:1313/posts/2019/03/s3stream/</link>
+      <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/03/s3stream/</guid>
+      <description>Setup import &amp;#34;github.com/indiependente/s3stream&amp;#34; // where conf is &amp;amp;aws.Config store := s3stream.NewStoreWithClient(s3.New(session.Must(session.NewSession(conf)))) Get rc, err := store.Get(prefix, bucketname, filename) Put n, err := store.Put(prefix, bucketname, filename, contentType, r) </description>
+    </item>
+    <item>
       <title>About</title>
-      <link>https://indiependente.dev/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Fri, 22 Mar 2019 19:10:56 +0000</pubDate>
-      <guid>https://indiependente.dev/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description></description>
     </item>
   </channel>
