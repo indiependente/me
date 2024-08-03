@@ -2,7 +2,7 @@
 title: "🇬🇷 Santorini: my tips after one week"
 date: 2024-08-03T15:39:11Z
 toc: true
-draft: true
+draft: false
 images:
 tags:
   - santorini
