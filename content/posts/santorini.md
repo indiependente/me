@@ -46,7 +46,7 @@ Oia is the most famous village of Santorini. It's a must-see place. The sunset v
 
 Parking is free but can be a problem, so I recommend to park the car in the parking lot at the entrance of the village and walk to the center. The walk is very pleasant and you can take some great pictures along the way.
 
-[Parking lot near Oia](https://maps.app.goo.gl/qETXEqo6P3puKP548)
+🅿️ [Parking lot near Oia](https://maps.app.goo.gl/qETXEqo6P3puKP548)
 
 ![Views from the walk to Oia](https://res.cloudinary.com/indiependente/image/upload/v1722554923/indiependente.dev/santorini/IMG_3926_f6gqws.jpg)
 
