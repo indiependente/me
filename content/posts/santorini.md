@@ -64,7 +64,7 @@ Emporio is a small village in the south of the island. It's less crowded than Oi
 
 Pyrgos is a small village in the center of the island. It's less crowded than Oia and Fira. The view from the top of the hill is amazing. The village is very quiet and the streets are full of shops and restaurants.
 
-![Pyrgos](https://res.cloudinary.com/indiependente/image/upload/v1722694890/indiependente.dev/santorini/IMG_4251_kzuibz.jpg)
+![Pyrgos](https://res.cloudinary.com/indiependente/image/upload/v1722692377/indiependente.dev/santorini/IMG_4118_ltrobx.jpg)
 
 ### Akrotiri
 
