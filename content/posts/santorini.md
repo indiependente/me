@@ -58,7 +58,7 @@ Fira is the capital of Santorini. It's a very lively place with a lot of shops a
 
 Emporio is a small village in the south of the island. It's less crowded than Oia and Fira. It's famous for its venetian castle.
 
-![Emporio](https://res.cloudinary.com/indiependente/image/upload/v1722692377/indiependente.dev/santorini/IMG_4118_ltrobx.jpg)
+![Emporio](https://res.cloudinary.com/indiependente/image/upload/v1722726961/indiependente.dev/santorini/IMG_4426_gphjk4.jpg)
 
 ### Pyrgos
 
