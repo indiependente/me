@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>italy on Francesco Farina</title>
-    <link>https://indiependente.dev/tags/italy/</link>
-    <description>Recent content in italy on Francesco Farina</description>
+    <title>Italy on Francesco Farina</title>
+    <link>http://localhost:1313/tags/italy/</link>
+    <description>Recent content in Italy on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2019 19:11:11 +0000</lastBuildDate>
-    <atom:link href="https://indiependente.dev/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/italy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A tour of Naples</title>
-      <link>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</link>
+      <link>http://localhost:1313/posts/2019/03/a-tour-of-naples/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
-      <guid>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</guid>
+      <guid>http://localhost:1313/posts/2019/03/a-tour-of-naples/</guid>
       <description>Map of Naples
 Points of interests Piazza del Plebiscito, Lungomare and Castles Piazza Plebiscito Gran Caffè Gambrinus Lungomare Caracciolo Castel dell&amp;rsquo;Ovo Open to the public Castel Nuovo (a.k.a. Maschio Angioino, open to the public) High Street Via Toledo (high street, shopping) Galleria Umberto I Monumental complex of S. Claire (1310) Monastero di Santa Chiara https://www.monasterodisantachiara.it/english/ Piazza del Gesù Nuovo Spaccanapoli and Cathedrals Spaccanapoli (a.k.a. San Biagio dei librai) Via dei Tribunali parallel to Spaccanapoli the most characteristic street heart of the city, inside the ancient walls Santa Maria Assunta Cathedral (Dome) Food Naples is the paradise of delicious and cheap street food.</description>
     </item>

@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/indiependente
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://indiependente.dev
+  * I am indiependente (https://keybase.io/indiependente) on keybase.
+  * I have a public key with fingerprint 5D0A D36E C4C6 BBCB BADD  15DD 01AB 54EC D776 5CF0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012087ab6924716170c9a3063ad188bc43079b3ef8ce017d70de53edf78787ca77070a",
+      "fingerprint": "5d0ad36ec4c6bbcbbadd15dd01ab54ecd7765cf0",
+      "host": "keybase.io",
+      "key_id": "01ab54ecd7765cf0",
+      "kid": "01014a98cbd08c7906054793c1839dc69b36d0a0ffd02539bc509c3137b2663401070a",
+      "uid": "a549fcb318fd7da4f77cd93387fffe19",
+      "username": "indiependente"
+    },
+    "merkle_root": {
+      "ctime": 1717238950,
+      "hash_meta": "99086c43dd3b81737568ae8178f6994869972a222bf423773c02c0ff6699e9bc",
+      "seqno": 25781273
+    },
+    "revoke": {
+      "sig_ids": [
+        "aa66f717171b07af965a75905b8ea2815419db69faa842f06209405fb2968a160f"
+      ]
+    },
+    "service": {
+      "hostname": "indiependente.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1717238954,
+  "expire_in": 157680000,
+  "prev": "85cd1123bc9f4a212af73cc58df803fef64f8d5cabc1c79e3f091e52da4b497b",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP7AnicbVMNTFVlGL74g4iiRE6dLh0H8PeG3/n9vnPBnDpTSm0pM6bS7TvfD56A
+e67nXi44lFmRU9H5EznZmtOidKRZ6mD9aIk0UkqMUjcVmqTEUplpNguxvmO6tuqc
+7fx9z/O+z/s852tK6u9LjIt7P/f6+djym3Etja+U+PjSe3XlkuXQVVKgXCpkD26s
+iLJINFhoUykgAVkBCGLLMBUNyoYMATGxCgwVUxkhi2gqgKalMo4IAzKkEFCmq4xy
+iMRJMIQAAiz5JW6HCpgbdu1QVJTVKcBUNRjRiGFZxLIwpbJOKZCxpWuMUAgNnXAg
+iCuciMcQ4iwcYZm2I76Jl+BDef/BP9INZA2biFgUIAJNYABdg6ZKZKSalBhCsyE0
+AM4pUHTVtIgOTKLKKrQUw1A1wf9bd8mDcljXTE4sVUacQoo1DiGhpqoiyDlnsukB
+I8wN4WIm0HaI2izMQpSFokxa45eKmVtYxIKu40Q9h0nU9nAylKGiIlMHYkocWREs
+ZlEs6KYJkCGcpVS1kAxVqBsIM/GEuGGaGhIXqGBFUSyuKSqEKgEKEZMYYoGJSYSY
+CFsZcqSAokMkK1AVElwWcwqZ1z1iFwjzIlJgmYSxYXDo6ZAtADE3DR1D3QS6hRhW
+kKxrsklF9hxjpCkcGAowNaBzSzGFJNkAXMpf43VzYzZ5UNxL6/9cyKQsJnSFXSfq
+EKdILK+IRsORgOdOdFXYw5cyK/iwUtDyyKECwYgxN2I7IeGWQP7bOM0vsbKw7bKg
+7SF0aCAgDq+PaBeQkE6oLCuqRUyuYUVWMBduER1RjoDKGTc0jqhOsEVk8ZMwlQNT
+ZroiErY0E1r/OOllFMUFoqawL4SjJa4ItvH48gG+uERf/MB+3k7yJQ5OfrS/RnUl
++/aEbHr+6U+qt2xxzyQM21OWkb2hUTmE4rtv7R5aXNj8nt1WfbMobdPE2e3LbgU+
+yrl+6kLLxdKU5mOh20XjnqtMP9h0rOf1qZeynMv+4gY6ZPVjOV+NThnZ0bU52Js8
+/9qJjXs6N8ytGzV93NKZdxPWv5yaa074dN0dX8Lovbhjf1tl3+TatElIa+uNzw7/
+sGbeN705NftDiyqCKUWnAxmDkrXSuddeC398u8f44/jwQMUVfqmqM2nM/S15+VXz
+3jHwTjJ539hI7ul5B2Yl3c1LWzhme0n29oWxlVtLweL68bXVbw4cu6v5eNbgmek1
+bs/dgg9GHkz6zl95+/KrZ0eUj55VcebOyc72N/o2Zv7UXtvpJHz7BD2ye/x8dnL1
+ryfQjvq89KEDlyzKbUHT18b/uKq7Ye6MbRd93TtvDOUTrq6vz2w9V9N01F/388KK
+yNqCY7Nab1RPaazKO5x8akFbbMDZtKOgddPhi/2n/TJ8a8Lzb8XPPlqdo+/Iqqnq
+mdZ07u22+6llE3KGfDEg6UZHLcm66a+fOqPfAXNXt5Va19apf7hrlL7kmYSMz3rP
+t+arB+pGdD3ent26M6lZW7bZ9/3s6a7zUtnlhgXNl67d60h9N2PbYt/IYb9Pupr/
+Ilh3eGNf+gu/dZ1obUkc9OREgzR8/WWfMqf8yNaUC1d68IWZn++tbZ9y66lD4UqW
+9+yfOU0LAvv+AppAA6c=
+=lkqp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/indiependente
+
+==================================================================

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://indiependente.dev/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2022-09-15T13:39:00+00:00</lastmod>
+      <lastmod>2024-08-03T16:39:11+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://indiependente.dev/it/sitemap.xml</loc>
+    <loc>http://localhost:1313/it/sitemap.xml</loc>
     
   </sitemap>
   

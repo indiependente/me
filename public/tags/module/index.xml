@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Module on Francesco Farina</title>
+    <link>http://localhost:1313/tags/module/</link>
+    <description>Recent content in Module on Francesco Farina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Mar 2019 19:11:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>s3stream</title>
+      <link>http://localhost:1313/posts/2019/03/s3stream/</link>
+      <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019/03/s3stream/</guid>
+      <description>Setup import &amp;#34;github.com/indiependente/s3stream&amp;#34; // where conf is &amp;amp;aws.Config store := s3stream.NewStoreWithClient(s3.New(session.Must(session.NewSession(conf)))) Get rc, err := store.Get(prefix, bucketname, filename) Put n, err := store.Put(prefix, bucketname, filename, contentType, r) </description>
+    </item>
+  </channel>
+</rss>
