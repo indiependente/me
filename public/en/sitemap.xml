@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/2024/09/free-ssl-certificates-for-your-homelab-with-duckdns-and-dns-01/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/caddy/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dns-01/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/duckdns/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-03T16:39:11+00:00</lastmod>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -15,8 +27,51 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/free/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homelab/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/letsencrypt/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-03T16:39:11+00:00</lastmod>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ssl/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-11T17:57:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/greece/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/holidays/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/island/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/katamaran/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/santorini/</loc>
+    <lastmod>2024-08-03T15:39:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cfs/</loc>
     <lastmod>2022-09-15T13:39:00+00:00</lastmod>
@@ -50,19 +105,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/requests/</loc>
     <lastmod>2022-09-15T13:39:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-09-15T13:39:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://localhost:1313/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</loc>
     <lastmod>2021-03-13T15:05:00+00:00</lastmod>

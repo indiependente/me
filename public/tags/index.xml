@@ -6,76 +6,76 @@
     <description>Recent content in Tags on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 17:57:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cfs</title>
-      <link>http://localhost:1313/tags/cfs/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cfs/</guid>
+      <title>Caddy</title>
+      <link>http://localhost:1313/tags/caddy/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/caddy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cgroups</title>
-      <link>http://localhost:1313/tags/cgroups/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cgroups/</guid>
+      <title>DNS-01</title>
+      <link>http://localhost:1313/tags/dns-01/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dns-01/</guid>
       <description></description>
     </item>
     <item>
-      <title>Containers</title>
-      <link>http://localhost:1313/tags/containers/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/containers/</guid>
+      <title>Duckdns</title>
+      <link>http://localhost:1313/tags/duckdns/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/duckdns/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cpu</title>
-      <link>http://localhost:1313/tags/cpu/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cpu/</guid>
+      <title>Free</title>
+      <link>http://localhost:1313/tags/free/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/free/</guid>
       <description></description>
     </item>
     <item>
-      <title>Kubernetes</title>
-      <link>http://localhost:1313/tags/kubernetes/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <title>Homelab</title>
+      <link>http://localhost:1313/tags/homelab/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
-      <title>Limits</title>
-      <link>http://localhost:1313/tags/limits/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/limits/</guid>
+      <title>Letsencrypt</title>
+      <link>http://localhost:1313/tags/letsencrypt/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/letsencrypt/</guid>
       <description></description>
     </item>
     <item>
-      <title>Memory</title>
-      <link>http://localhost:1313/tags/memory/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/memory/</guid>
+      <title>Ssl</title>
+      <link>http://localhost:1313/tags/ssl/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
-      <title>Performance</title>
-      <link>http://localhost:1313/tags/performance/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/performance/</guid>
+      <title>Greece</title>
+      <link>http://localhost:1313/tags/greece/</link>
+      <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/greece/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pods</title>
-      <link>http://localhost:1313/tags/pods/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pods/</guid>
+      <title>Holidays</title>
+      <link>http://localhost:1313/tags/holidays/</link>
+      <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/holidays/</guid>
       <description></description>
     </item>
     <item>
-      <title>Requests</title>
-      <link>http://localhost:1313/tags/requests/</link>
-      <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/requests/</guid>
+      <title>Island</title>
+      <link>http://localhost:1313/tags/island/</link>
+      <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/island/</guid>
       <description></description>
     </item>
   </channel>

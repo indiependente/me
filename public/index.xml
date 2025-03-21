@@ -6,48 +6,119 @@
     <description>Recent content on Francesco Farina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Aug 2024 15:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 17:57:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔐 Free SSL certificates for your homelab with DuckDNS and DNS-01</title>
+      <link>http://localhost:1313/posts/2024/09/free-ssl-certificates-for-your-homelab-with-duckdns-and-dns-01/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/09/free-ssl-certificates-for-your-homelab-with-duckdns-and-dns-01/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/indiependente.dev/homelab/immich-login.png&#34; alt=&#34;Immich login page&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;If you like me have been wondering on how to have nice links in your homelab without having to pay for a domain and a certificate, this post is for you.&lt;/p&gt;
+&lt;p&gt;Especially if you want to use a subdomain of a free domain like DuckDNS, you can get a free SSL certificate from Let&amp;rsquo;s Encrypt using the DNS-01 challenge.&lt;/p&gt;
+&lt;h2 id=&#34;dns-01-challenge&#34;&gt;DNS-01 challenge&lt;/h2&gt;
+&lt;p&gt;The DNS-01 challenge is a way to prove that you own a domain by adding a specific DNS record. This is the most secure way to get a certificate as it doesn&amp;rsquo;t require any server to be reachable from the internet.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🇬🇷 Santorini: my tips after one week</title>
       <link>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
       <guid>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</guid>
-      <description>This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.
-🚗 Rent a car Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes. We booked our car with Santorini Easy Rent. They have a wide range of cars and the prices are very competitive.</description>
+      <description>&lt;p&gt;&lt;em&gt;This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-rent-a-car&#34;&gt;🚗 Rent a car&lt;/h2&gt;
+&lt;p&gt;Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes.
+We booked our car with &lt;a href=&#34;https://www.santorinieasyrent.com/&#34;&gt;Santorini Easy Rent&lt;/a&gt;. They have a wide range of cars and the prices are very competitive. The staff is very friendly and they can deliver the car to your hotel or the airport.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kubernetes Requests &amp; Limits</title>
       <link>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</link>
       <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</guid>
-      <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
-Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
-Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
+      <description>&lt;p&gt;&lt;em&gt;This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.&lt;/p&gt;
+&lt;p&gt;Requests are what the container is &lt;strong&gt;guaranteed&lt;/strong&gt; to get. If a container requests a resource, the &lt;em&gt;kube-scheduler&lt;/em&gt; will only schedule it on a node that can give it that resource.&lt;/p&gt;</description>
     </item>
     <item>
       <title> ƛ📦 AWS Lambdas containers and Go</title>
       <link>http://localhost:1313/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</link>
       <pubDate>Sat, 13 Mar 2021 15:05:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2021/03/%C6%9B-aws-lambdas-containers-and-go/</guid>
-      <description>TL;DR AWS official base images for lambdas ship entire distros, use scratch or distroless base images for statically compiled languages like Go and use the aws-lambda-runtime-interface-emulator as the entrypoint.
-Intro In December 2020, AWS announced support for packaging and running lambdas in containers.
-In this blog post I&amp;rsquo;ll try to dig a little bit deeper on how it works and how we can improve what&amp;rsquo;s described in the official article, so that we can run an example Go application as a Dockerised lambda both on AWS and locally in the most space efficient way.</description>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;AWS official base images for lambdas ship entire distros, use scratch or distroless base images for statically compiled languages like Go and use the &lt;a href=&#34;https://github.com/aws/aws-lambda-runtime-interface-emulator/&#34;&gt;aws-lambda-runtime-interface-emulator&lt;/a&gt; as the entrypoint.&lt;/p&gt;
+&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;In December 2020, &lt;a href=&#34;https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/&#34;&gt;AWS announced&lt;/a&gt; support for packaging and running lambdas in containers.&lt;/p&gt;
+&lt;p&gt;In this blog post I&amp;rsquo;ll try to dig a little bit deeper on how it works and how we can improve what&amp;rsquo;s described in the official article, so that we can run an example Go application as a Dockerised lambda both on AWS and locally in the most space efficient way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A tour of Naples</title>
       <link>http://localhost:1313/posts/2019/03/a-tour-of-naples/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
       <guid>http://localhost:1313/posts/2019/03/a-tour-of-naples/</guid>
-      <description>Map of Naples
-Points of interests Piazza del Plebiscito, Lungomare and Castles Piazza Plebiscito Gran Caffè Gambrinus Lungomare Caracciolo Castel dell&amp;rsquo;Ovo Open to the public Castel Nuovo (a.k.a. Maschio Angioino, open to the public) High Street Via Toledo (high street, shopping) Galleria Umberto I Monumental complex of S. Claire (1310) Monastero di Santa Chiara https://www.monasterodisantachiara.it/english/ Piazza del Gesù Nuovo Spaccanapoli and Cathedrals Spaccanapoli (a.k.a. San Biagio dei librai) Via dei Tribunali parallel to Spaccanapoli the most characteristic street heart of the city, inside the ancient walls Santa Maria Assunta Cathedral (Dome) Food Naples is the paradise of delicious and cheap street food.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465600/indiependente.dev/a-tour-of-naples/naples_rhxifl.png&#34; alt=&#34;Naples&#34;  /&gt;
+
+Map of Naples&lt;/p&gt;
+&lt;h2 id=&#34;points-of-interests&#34;&gt;Points of interests&lt;/h2&gt;
+&lt;h3 id=&#34;piazza-del-plebiscito-lungomare-and-castles&#34;&gt;Piazza del Plebiscito, Lungomare and Castles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/ASAJXobzHZ12&#34;&gt;Piazza Plebiscito&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/MTXFVumzqiq&#34;&gt;Gran Caffè Gambrinus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/rRTykcdMNwq&#34;&gt;Lungomare Caracciolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/Rp9n9TvFGrw&#34;&gt;Castel dell&amp;rsquo;Ovo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Open to the public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/nzsS5DZxKnP2&#34;&gt;Castel Nuovo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;(a.k.a. Maschio Angioino, open to the public)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465688/indiependente.dev/a-tour-of-naples/plebiscito_smvqwe.png&#34; alt=&#34;Plebiscito&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;high-street&#34;&gt;High Street&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/LWWz4LZggRu&#34;&gt;Via Toledo&lt;/a&gt; (high street, shopping)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/NBzTGP9JmoS2&#34;&gt;Galleria Umberto I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465379/indiependente.dev/a-tour-of-naples/toledo_ptyz6g.png&#34; alt=&#34;Via Toledo&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;monumental-complex-of-s-claire-1310&#34;&gt;Monumental complex of S. Claire (1310)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/DytBHhb9heG2&#34;&gt;Monastero di Santa Chiara&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.monasterodisantachiara.it/english/&#34;&gt;https://www.monasterodisantachiara.it/english/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/QsW2JCCuia92&#34;&gt;Piazza del Gesù Nuovo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465376/indiependente.dev/a-tour-of-naples/santachiara_ve8jy8.png&#34; alt=&#34;S. Claire complex&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>s3stream</title>
       <link>http://localhost:1313/posts/2019/03/s3stream/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
       <guid>http://localhost:1313/posts/2019/03/s3stream/</guid>
-      <description>Setup import &amp;#34;github.com/indiependente/s3stream&amp;#34; // where conf is &amp;amp;aws.Config store := s3stream.NewStoreWithClient(s3.New(session.Must(session.NewSession(conf)))) Get rc, err := store.Get(prefix, bucketname, filename) Put n, err := store.Put(prefix, bucketname, filename, contentType, r) </description>
+      <description>&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff79c6&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;github.com/indiependente/s3stream&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#6272a4&#34;&gt;// where conf is &amp;amp;aws.Config&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  store &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; s3stream.&lt;span style=&#34;color:#50fa7b&#34;&gt;NewStoreWithClient&lt;/span&gt;(s3.&lt;span style=&#34;color:#50fa7b&#34;&gt;New&lt;/span&gt;(session.&lt;span style=&#34;color:#50fa7b&#34;&gt;Must&lt;/span&gt;(session.&lt;span style=&#34;color:#50fa7b&#34;&gt;NewSession&lt;/span&gt;(conf))))
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;get&#34;&gt;Get&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rc, err &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; store.&lt;span style=&#34;color:#50fa7b&#34;&gt;Get&lt;/span&gt;(prefix, bucketname, filename)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;put&#34;&gt;Put&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;n, err &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; store.&lt;span style=&#34;color:#50fa7b&#34;&gt;Put&lt;/span&gt;(prefix, bucketname, filename, contentType, r)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>About</title>

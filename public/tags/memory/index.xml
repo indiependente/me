@@ -13,9 +13,10 @@
       <link>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</link>
       <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</guid>
-      <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
-Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
-Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
+      <description>&lt;p&gt;&lt;em&gt;This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.&lt;/p&gt;
+&lt;p&gt;Requests are what the container is &lt;strong&gt;guaranteed&lt;/strong&gt; to get. If a container requests a resource, the &lt;em&gt;kube-scheduler&lt;/em&gt; will only schedule it on a node that can give it that resource.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

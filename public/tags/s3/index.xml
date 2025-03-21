@@ -13,7 +13,15 @@
       <link>http://localhost:1313/posts/2019/03/s3stream/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
       <guid>http://localhost:1313/posts/2019/03/s3stream/</guid>
-      <description>Setup import &amp;#34;github.com/indiependente/s3stream&amp;#34; // where conf is &amp;amp;aws.Config store := s3stream.NewStoreWithClient(s3.New(session.Must(session.NewSession(conf)))) Get rc, err := store.Get(prefix, bucketname, filename) Put n, err := store.Put(prefix, bucketname, filename, contentType, r) </description>
+      <description>&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff79c6&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;github.com/indiependente/s3stream&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#6272a4&#34;&gt;// where conf is &amp;amp;aws.Config&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  store &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; s3stream.&lt;span style=&#34;color:#50fa7b&#34;&gt;NewStoreWithClient&lt;/span&gt;(s3.&lt;span style=&#34;color:#50fa7b&#34;&gt;New&lt;/span&gt;(session.&lt;span style=&#34;color:#50fa7b&#34;&gt;Must&lt;/span&gt;(session.&lt;span style=&#34;color:#50fa7b&#34;&gt;NewSession&lt;/span&gt;(conf))))
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;get&#34;&gt;Get&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rc, err &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; store.&lt;span style=&#34;color:#50fa7b&#34;&gt;Get&lt;/span&gt;(prefix, bucketname, filename)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;put&#34;&gt;Put&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;n, err &lt;span style=&#34;color:#ff79c6&#34;&gt;:=&lt;/span&gt; store.&lt;span style=&#34;color:#50fa7b&#34;&gt;Put&lt;/span&gt;(prefix, bucketname, filename, contentType, r)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
