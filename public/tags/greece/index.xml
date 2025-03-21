@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Greece on Francesco Farina</title>
-    <link>http://localhost:1313/tags/greece/</link>
+    <link>https://indiependente.dev/tags/greece/</link>
     <description>Recent content in Greece on Francesco Farina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Aug 2024 15:39:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/greece/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://indiependente.dev/tags/greece/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🇬🇷 Santorini: my tips after one week</title>
-      <link>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</link>
+      <link>https://indiependente.dev/posts/2024/08/santorini-my-tips-after-one-week/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</guid>
+      <guid>https://indiependente.dev/posts/2024/08/santorini-my-tips-after-one-week/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-rent-a-car&#34;&gt;🚗 Rent a car&lt;/h2&gt;
 &lt;p&gt;Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes.

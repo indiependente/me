@@ -106,8 +106,8 @@ disableHugoGeneratorInject = false
     url = "mailto:francesco@indiependente.anonaddy.com"
 
   [[params.socialIcons]]
-      name = "mastodon"
-      url = "https://mastodon.social/@indiependente"
+    name = "mastodon"
+    url = "https://mastodon.social/@indiependente"
 
   [[params.socialIcons]]
     name = "instagram"
@@ -118,9 +118,8 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/francesco-farina-0579a6147"
 
   [[params.socialIcons]]
-      name = "x"
-      url = "https://twitter.com/indiependente"
-
+    name = "bluesky"
+    url = "https://bsky.app/profile/indiependente.bsky.social"
 
 [languages]
   [languages.en]

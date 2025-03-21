@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Francesco Farina</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://indiependente.dev/tags/</link>
     <description>Recent content in Tags on Francesco Farina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Sep 2024 17:57:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://indiependente.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caddy</title>
-      <link>http://localhost:1313/tags/caddy/</link>
+      <link>https://indiependente.dev/tags/caddy/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/caddy/</guid>
+      <guid>https://indiependente.dev/tags/caddy/</guid>
       <description></description>
     </item>
     <item>
       <title>DNS-01</title>
-      <link>http://localhost:1313/tags/dns-01/</link>
+      <link>https://indiependente.dev/tags/dns-01/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dns-01/</guid>
+      <guid>https://indiependente.dev/tags/dns-01/</guid>
       <description></description>
     </item>
     <item>
       <title>Duckdns</title>
-      <link>http://localhost:1313/tags/duckdns/</link>
+      <link>https://indiependente.dev/tags/duckdns/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/duckdns/</guid>
+      <guid>https://indiependente.dev/tags/duckdns/</guid>
       <description></description>
     </item>
     <item>
       <title>Free</title>
-      <link>http://localhost:1313/tags/free/</link>
+      <link>https://indiependente.dev/tags/free/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/free/</guid>
+      <guid>https://indiependente.dev/tags/free/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelab</title>
-      <link>http://localhost:1313/tags/homelab/</link>
+      <link>https://indiependente.dev/tags/homelab/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/homelab/</guid>
+      <guid>https://indiependente.dev/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Letsencrypt</title>
-      <link>http://localhost:1313/tags/letsencrypt/</link>
+      <link>https://indiependente.dev/tags/letsencrypt/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/letsencrypt/</guid>
+      <guid>https://indiependente.dev/tags/letsencrypt/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssl</title>
-      <link>http://localhost:1313/tags/ssl/</link>
+      <link>https://indiependente.dev/tags/ssl/</link>
       <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ssl/</guid>
+      <guid>https://indiependente.dev/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>Greece</title>
-      <link>http://localhost:1313/tags/greece/</link>
+      <link>https://indiependente.dev/tags/greece/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/greece/</guid>
+      <guid>https://indiependente.dev/tags/greece/</guid>
       <description></description>
     </item>
     <item>
       <title>Holidays</title>
-      <link>http://localhost:1313/tags/holidays/</link>
+      <link>https://indiependente.dev/tags/holidays/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/holidays/</guid>
+      <guid>https://indiependente.dev/tags/holidays/</guid>
       <description></description>
     </item>
     <item>
       <title>Island</title>
-      <link>http://localhost:1313/tags/island/</link>
+      <link>https://indiependente.dev/tags/island/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
-      <guid>http://localhost:1313/tags/island/</guid>
+      <guid>https://indiependente.dev/tags/island/</guid>
       <description></description>
     </item>
   </channel>
