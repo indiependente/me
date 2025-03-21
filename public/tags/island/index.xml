@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Island on Francesco Farina</title>
-    <link>http://localhost:1313/tags/island/</link>
+    <link>https://indiependente.dev/tags/island/</link>
     <description>Recent content in Island on Francesco Farina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Aug 2024 15:39:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/island/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://indiependente.dev/tags/island/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🇬🇷 Santorini: my tips after one week</title>
-      <link>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</link>
+      <link>https://indiependente.dev/posts/2024/08/santorini-my-tips-after-one-week/</link>
       <pubDate>Sat, 03 Aug 2024 15:39:11 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/santorini-my-tips-after-one-week/</guid>
-      <description>This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.
-🚗 Rent a car Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes. We booked our car with Santorini Easy Rent. They have a wide range of cars and the prices are very competitive.</description>
+      <guid>https://indiependente.dev/posts/2024/08/santorini-my-tips-after-one-week/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is not a guide but only a collection of opinionated tips I can share to anyone visiting the island of Santorini.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-rent-a-car&#34;&gt;🚗 Rent a car&lt;/h2&gt;
+&lt;p&gt;Renting a car is a must. The island is small but the public transportation is not very efficient. You can easily drive from one side of the island to the other in less than 30 minutes.
+We booked our car with &lt;a href=&#34;https://www.santorinieasyrent.com/&#34;&gt;Santorini Easy Rent&lt;/a&gt;. They have a wide range of cars and the prices are very competitive. The staff is very friendly and they can deliver the car to your hotel or the airport.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

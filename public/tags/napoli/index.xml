@@ -1,20 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Napoli on Francesco Farina</title>
-    <link>http://localhost:1313/tags/napoli/</link>
+    <link>https://indiependente.dev/tags/napoli/</link>
     <description>Recent content in Napoli on Francesco Farina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2019 19:11:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/napoli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://indiependente.dev/tags/napoli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A tour of Naples</title>
-      <link>http://localhost:1313/posts/2019/03/a-tour-of-naples/</link>
+      <link>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</link>
       <pubDate>Fri, 22 Mar 2019 19:11:11 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2019/03/a-tour-of-naples/</guid>
-      <description>Map of Naples
-Points of interests Piazza del Plebiscito, Lungomare and Castles Piazza Plebiscito Gran Caffè Gambrinus Lungomare Caracciolo Castel dell&amp;rsquo;Ovo Open to the public Castel Nuovo (a.k.a. Maschio Angioino, open to the public) High Street Via Toledo (high street, shopping) Galleria Umberto I Monumental complex of S. Claire (1310) Monastero di Santa Chiara https://www.monasterodisantachiara.it/english/ Piazza del Gesù Nuovo Spaccanapoli and Cathedrals Spaccanapoli (a.k.a. San Biagio dei librai) Via dei Tribunali parallel to Spaccanapoli the most characteristic street heart of the city, inside the ancient walls Santa Maria Assunta Cathedral (Dome) Food Naples is the paradise of delicious and cheap street food.</description>
+      <guid>https://indiependente.dev/posts/2019/03/a-tour-of-naples/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Naples&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465600/indiependente.dev/a-tour-of-naples/naples_rhxifl.png&#34;&gt;
+Map of Naples&lt;/p&gt;
+&lt;h2 id=&#34;points-of-interests&#34;&gt;Points of interests&lt;/h2&gt;
+&lt;h3 id=&#34;piazza-del-plebiscito-lungomare-and-castles&#34;&gt;Piazza del Plebiscito, Lungomare and Castles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/ASAJXobzHZ12&#34;&gt;Piazza Plebiscito&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/MTXFVumzqiq&#34;&gt;Gran Caffè Gambrinus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/rRTykcdMNwq&#34;&gt;Lungomare Caracciolo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/Rp9n9TvFGrw&#34;&gt;Castel dell&amp;rsquo;Ovo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Open to the public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/nzsS5DZxKnP2&#34;&gt;Castel Nuovo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;(a.k.a. Maschio Angioino, open to the public)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Plebiscito&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465688/indiependente.dev/a-tour-of-naples/plebiscito_smvqwe.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;high-street&#34;&gt;High Street&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/LWWz4LZggRu&#34;&gt;Via Toledo&lt;/a&gt; (high street, shopping)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/NBzTGP9JmoS2&#34;&gt;Galleria Umberto I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Via Toledo&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465379/indiependente.dev/a-tour-of-naples/toledo_ptyz6g.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;monumental-complex-of-s-claire-1310&#34;&gt;Monumental complex of S. Claire (1310)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/DytBHhb9heG2&#34;&gt;Monastero di Santa Chiara&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.monasterodisantachiara.it/english/&#34;&gt;https://www.monasterodisantachiara.it/english/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/QsW2JCCuia92&#34;&gt;Piazza del Gesù Nuovo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;S. Claire complex&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465376/indiependente.dev/a-tour-of-naples/santachiara_ve8jy8.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;spaccanapoli-and-cathedrals&#34;&gt;Spaccanapoli and Cathedrals&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/LWWz4LZggRu&#34;&gt;Spaccanapoli&lt;/a&gt; (a.k.a. San Biagio dei librai)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/9n81h1WKk5M2&#34;&gt;Via dei Tribunali&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;parallel to Spaccanapoli&lt;/li&gt;
+&lt;li&gt;the most characteristic street&lt;/li&gt;
+&lt;li&gt;heart of the city, inside the ancient walls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/CnukDLeJrG92&#34;&gt;Santa Maria Assunta Cathedral (Dome)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Spaccanapoli&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/c_limit,q_75:420,w_500/v1596465377/indiependente.dev/a-tour-of-naples/spaccanapoli_obfpzz.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Memory on Francesco Farina</title>
-    <link>http://localhost:1313/tags/memory/</link>
+    <link>https://indiependente.dev/tags/memory/</link>
     <description>Recent content in Memory on Francesco Farina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Sep 2022 13:39:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://indiependente.dev/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes Requests &amp; Limits</title>
-      <link>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</link>
+      <link>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</link>
       <pubDate>Thu, 15 Sep 2022 13:39:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2022/09/kubernetes-requests-limits/</guid>
-      <description>This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.
-Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.
-Requests are what the container is guaranteed to get. If a container requests a resource, the kube-scheduler will only schedule it on a node that can give it that resource.</description>
+      <guid>https://indiependente.dev/posts/2022/09/kubernetes-requests-limits/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This document is the result of research on the topic of CPU/Memory Limits and Requests for Kubernetes, to provide engineers with a better understanding of how such configuration work and can affect the execution and performance of services.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Requests and Limits are the mechanisms k8s uses to control the utilisation of resources such as CPU and memory.&lt;/p&gt;
+&lt;p&gt;Requests are what the container is &lt;strong&gt;guaranteed&lt;/strong&gt; to get. If a container requests a resource, the &lt;em&gt;kube-scheduler&lt;/em&gt; will only schedule it on a node that can give it that resource.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

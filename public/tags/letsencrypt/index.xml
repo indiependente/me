@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Letsencrypt on Francesco Farina</title>
+    <link>https://indiependente.dev/tags/letsencrypt/</link>
+    <description>Recent content in Letsencrypt on Francesco Farina</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Sep 2024 17:57:11 +0000</lastBuildDate>
+    <atom:link href="https://indiependente.dev/tags/letsencrypt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔐 Free SSL certificates for your homelab with DuckDNS and DNS-01</title>
+      <link>https://indiependente.dev/posts/2024/09/free-ssl-certificates-for-your-homelab-with-duckdns-and-dns-01/</link>
+      <pubDate>Wed, 11 Sep 2024 17:57:11 +0000</pubDate>
+      <guid>https://indiependente.dev/posts/2024/09/free-ssl-certificates-for-your-homelab-with-duckdns-and-dns-01/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Immich login page&#34; loading=&#34;lazy&#34; src=&#34;https://res.cloudinary.com/indiependente/image/upload/indiependente.dev/homelab/immich-login.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you like me have been wondering on how to have nice links in your homelab without having to pay for a domain and a certificate, this post is for you.&lt;/p&gt;
+&lt;p&gt;Especially if you want to use a subdomain of a free domain like DuckDNS, you can get a free SSL certificate from Let&amp;rsquo;s Encrypt using the DNS-01 challenge.&lt;/p&gt;
+&lt;h2 id=&#34;dns-01-challenge&#34;&gt;DNS-01 challenge&lt;/h2&gt;
+&lt;p&gt;The DNS-01 challenge is a way to prove that you own a domain by adding a specific DNS record. This is the most secure way to get a certificate as it doesn&amp;rsquo;t require any server to be reachable from the internet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
