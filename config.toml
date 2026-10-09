@@ -2,7 +2,7 @@ baseurl = "https://indiependente.dev"
 title = "indiependente"
 
 DefaultContentLanguage = "en"
-languageCode = "en-us"
+locale = "en-US"
 
 theme = "PaperMod"
 
